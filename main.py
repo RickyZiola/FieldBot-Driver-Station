@@ -6,6 +6,7 @@ from tkinter import ttk
 import numpy as math
 
 confWindow = NULL
+
 # Function to close Driver Station
 
 def exit_ds():
